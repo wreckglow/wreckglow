@@ -30,7 +30,7 @@ I'm a **Full-Stack Developer**
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wreckglow&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=8BE9FD&text_color=F8F8F2" alt="GitHub Stats" height="165"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wreckglow&theme=dracula&hide_border=true&background=282A36&stroke=44475A&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9" alt="GitHub Streak" height="165"/>
 </div>
 
