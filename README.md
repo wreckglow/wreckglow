@@ -68,9 +68,7 @@ I'm a **Full-Stack Developer**
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/wreckglow" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-wreckglow-282A36?style=for-the-badge&logo=github&logoColor=BD93F9" alt="GitHub"/>
-  </a>
+     <img src="https://img.shields.io/badge/WeChat-WreckGlow-282A36?style=for-the-badge&logo=wechat&logoColor=BD93F9" alt="WeChat"/>
   <a href="mailto:wreckglow@gmail.com">
     <img src="https://img.shields.io/badge/Email-wreckglow@gmail.com-282A36?style=for-the-badge&logo=gmail&logoColor=BD93F9" alt="Email"/>
   </a>
